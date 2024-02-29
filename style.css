@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+.card {
+    width: 500px;
+    height: fit-content;
+    background: aliceblue;
+    margin: 20px;
+
+}
+
+.border {
+    border: 5px solid #022419;
+    border-radius: 5px;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background: #022419;
+    border-radius: 50%;
+}
+
+img {
+    height: 100%;
+     width: 100%;
+}
+
+.text {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.main-color {
+    color: #f80d0d;
+}
